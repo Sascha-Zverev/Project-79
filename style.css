@@ -1,0 +1,22 @@
+    #submit_button {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+      } 
+
+    #sorting_button {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none; 
+    }
+    
+    #display_name {
+
+        font-weight: bold;
+    }
+
+    input {
+
+        margin: 10px;
+    }
